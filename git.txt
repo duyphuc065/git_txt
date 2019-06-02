@@ -1,0 +1,7 @@
+﻿- git clone <Link thùng chứa>
+- git status : kiểm tra trạng thái
+	+ màu đỏ : Working Copy
+	+ màu xanh : Staging Area
+- git add . : add tất cả các file qua vùng Staging Area (git status màu xanh>
+- git commit -m "ghi chú" : chuyển qua vùng Local Respository
+- git push origin <tên nhanh>: đẩy code lên server
